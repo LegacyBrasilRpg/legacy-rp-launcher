@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "gameName": "Legacy Roleplay",
+  "installPath": "C:\\Program Files (x86)\\Rockstar Games\\LegacyRPLauncher",
+  "downloadUrl": "",
+  "requiredFiles": [
+    "gta_sa.exe",
+    "samp.exe"
+  ]
+}
