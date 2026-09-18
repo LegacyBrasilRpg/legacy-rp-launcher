@@ -1,0 +1,29 @@
+{
+  "news": [
+    {
+      "date": "18/09/2026",
+      "title": "Atualização",
+      "message": "Corrigidos bugs na profissão Minerador."
+    },
+    {
+      "date": "17/09/2026",
+      "title": "Novo Sistema",
+      "message": "Novidades e melhorias implementadas no Legacy Roleplay."
+    },
+    {
+      "date": "16/09/2026",
+      "title": "Launcher",
+      "message": "Sistema de instalação e reparo do jogo atualizado."
+    },
+    {
+      "date": "15/09/2026",
+      "title": "Servidor",
+      "message": "Melhorias gerais e correções realizadas no servidor."
+    },
+    {
+      "date": "14/09/2026",
+      "title": "Legacy Roleplay",
+      "message": "Acompanhe pelo Launcher as principais novidades do servidor."
+    }
+  ]
+}
