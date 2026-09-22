@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "generatedAtUtc": "2026-09-18T12:41:33.2862966Z",
+  "version": "1.0.1",
+  "generatedAtUtc": "2026-09-22T11:41:06.7825203Z",
   "files": [
     {
       "path": "background.txd",
@@ -1791,6 +1791,56 @@
       "path": "modloader/SilentPatch/SilentPatchSA.ini",
       "sha256": "9fd329e566be2208c31420f0a81b74218311aac42a098ad12e2160852d4179a9",
       "size": 3314
+    },
+    {
+      "path": "modloader/Skins/army.dff",
+      "sha256": "2dff4a8c8e0c11ae4a6d470aefc7b5c4659a593ecd555daa536d340bec370fad",
+      "size": 1767849
+    },
+    {
+      "path": "modloader/Skins/army.txd",
+      "sha256": "ce0550dd8012bf9b28322936625caa873eab0076d286b92310749030bf2c457a",
+      "size": 1155152
+    },
+    {
+      "path": "modloader/Skins/bmydrug.dff",
+      "sha256": "2e22f03d46b45d2bdbb66fb1214c0e1df8a9b4437294423cd4ed1030a3b90263",
+      "size": 1163739
+    },
+    {
+      "path": "modloader/Skins/bmydrug.txd",
+      "sha256": "4ef5d7a5723399077d6a241030c441a410b5f993f80137a2d3ee95efb104356a",
+      "size": 765064
+    },
+    {
+      "path": "modloader/Skins/hmydrug.dff",
+      "sha256": "11ba8ec46ce4303f1b2abc6730c0d7695ff832cbb97c4e51ccb7186bb65fed77",
+      "size": 1131403
+    },
+    {
+      "path": "modloader/Skins/hmydrug.txd",
+      "sha256": "a3d10584545ed90fe895c5eeebbded504660c418bdd15f84a05fbd3681fefddc",
+      "size": 2030652
+    },
+    {
+      "path": "modloader/Skins/lapd1.dff",
+      "sha256": "49fd231fbe1c4ce3805644be5c5b5ac4f6bc604f8582586b5c3f0c7b5d871f7e",
+      "size": 2438893
+    },
+    {
+      "path": "modloader/Skins/lapd1.txd",
+      "sha256": "398370184275dcaf32a1a428591ab79042ee74032eb3521b0d5f7585d887d4f1",
+      "size": 1442916
+    },
+    {
+      "path": "modloader/Skins/swat.dff",
+      "sha256": "474043a731c7e8eea05991a41d983b52ab010d3d13f6dfa7221402ca8d0bc564",
+      "size": 1836469
+    },
+    {
+      "path": "modloader/Skins/swat.txd",
+      "sha256": "f4970715084aa4f91498fc67fb75d0479389fdc8c81ed284d52bfce62b4e30ec",
+      "size": 1409412
     },
     {
       "path": "data/Decision/Allowed/Cop.ped",
