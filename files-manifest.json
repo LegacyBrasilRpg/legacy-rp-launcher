@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "generatedAtUtc": "2026-09-22T12:32:41.8752965Z",
+  "version": "1.0.3",
+  "generatedAtUtc": "2026-09-22T13:08:21.8424736Z",
   "files": [
     {
       "path": "background.txd",
@@ -1841,6 +1841,16 @@
       "path": "modloader/Skins/swat.txd",
       "sha256": "f4970715084aa4f91498fc67fb75d0479389fdc8c81ed284d52bfce62b4e30ec",
       "size": 1409412
+    },
+    {
+      "path": "modloader/Veiculos/infernus.dff",
+      "sha256": "10c3a6e6d0016f400a6224dfecae3ab2b1280bd22ca4c178048fa9d255c92d33",
+      "size": 7993350
+    },
+    {
+      "path": "modloader/Veiculos/infernus.txd",
+      "sha256": "fe20e0aacdcb783752e02c28caf3d2239b8d241abceb5b7b356abeaeb9a91a9b",
+      "size": 6165421
     },
     {
       "path": "data/Decision/Allowed/Cop.ped",
