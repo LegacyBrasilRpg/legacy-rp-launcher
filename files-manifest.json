@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "generatedAtUtc": "2026-09-22T11:41:06.7825203Z",
+  "generatedAtUtc": "2026-09-22T11:51:36.6529339Z",
   "files": [
     {
       "path": "background.txd",
@@ -21,11 +21,6 @@
       "path": "CLEO.asi",
       "sha256": "1419f5adc052d4acc95f4ebe63d35229272515b88071183d6f9e1ef3ac103ba1",
       "size": 264704
-    },
-    {
-      "path": "cleo.log",
-      "sha256": "b968cff3ce1fdf443970c536ad04b8dac52344ea4ea71b910d8bba6360d18ec9",
-      "size": 3653
     },
     {
       "path": "eax.dll",
@@ -526,11 +521,6 @@
       "path": "modloader/modloader.ini",
       "sha256": "2aac15d6bae1413652afcd2aef1b253687c19d7b4972e9a9d84396be04b7dddd",
       "size": 1095
-    },
-    {
-      "path": "modloader/modloader.log",
-      "sha256": "4525ab72bb86a0ec4344a835671ae27c233eb733c1e5a45441e9b406bd6108a7",
-      "size": 13365
     },
     {
       "path": "movies/GTAtitles.mpg",
