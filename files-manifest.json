@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "generatedAtUtc": "2026-09-22T11:51:36.6529339Z",
+  "version": "1.0.2",
+  "generatedAtUtc": "2026-09-22T12:32:41.8752965Z",
   "files": [
     {
       "path": "background.txd",
@@ -1801,6 +1801,16 @@
       "path": "modloader/Skins/bmydrug.txd",
       "sha256": "4ef5d7a5723399077d6a241030c441a410b5f993f80137a2d3ee95efb104356a",
       "size": 765064
+    },
+    {
+      "path": "modloader/Skins/cesar.dff",
+      "sha256": "384ab9d35d8465e0e3c4eb3fdd551320f23700acbe20b3d7e91cf1383dca9f6d",
+      "size": 785872
+    },
+    {
+      "path": "modloader/Skins/cesar.txd",
+      "sha256": "cb07a15f5a0d171d7b5a00982f86c95a632ca80e99b422383db08d9608597d87",
+      "size": 1274516
     },
     {
       "path": "modloader/Skins/hmydrug.dff",
